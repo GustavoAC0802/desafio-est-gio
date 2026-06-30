@@ -22,13 +22,12 @@ A solução deve ter **duas partes que se comunicam**:
 - **Backend (API):** expõe uma API HTTP com as operações (toda a regra de negócio fica aqui).
 - **Frontend:** uma interface web que consome a API e permite realizar as operações e ver os resultados.
 
-## 💻 Linguagens aceitas (backend)
+## 💻 Linguagens utilizadas (backend)
 
-`JavaScript (Node.js)` · `TypeScript (Node.js)` · `Python` · `Ruby` · `PHP` · `Go`
+ `TypeScript (Node.js)`
 
-> O **frontend** pode usar HTML/CSS/JavaScript, com ou sem framework.
-
----
+## 💻 Linguagens utilizadas (frontend)
+   `TypeScript (React)`
 
 ## 🚀 Como participar
 
